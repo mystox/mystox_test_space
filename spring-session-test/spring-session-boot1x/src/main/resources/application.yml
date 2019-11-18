@@ -1,0 +1,9 @@
+server:
+  port: 10000
+spring:
+  session:
+    store-type: redis
+  redis:
+    host: 172.16.5.26
+    port: 6379
+    database: 9

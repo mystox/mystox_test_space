@@ -5,8 +5,12 @@
 
 	<groupId>tech.mystox.test</groupId>
 	<artifactId>mystox-test-space</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>mystox-test-space</name>
+    <packaging>pom</packaging>
+    <version>1.0.0</version>
+    <modules>
+        <module>spring-session-test</module>
+    </modules>
+    <name>mystox-test-space</name>
 	<description>测试项目目录</description>
 
 	<properties>
