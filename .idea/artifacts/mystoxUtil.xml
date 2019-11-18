@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mystoxUtil">
+    <output-path>$PROJECT_DIR$/out/artifacts/mystoxUtil</output-path>
+    <root id="archive" name="mystoxUtil.jar">
+      <element id="directory" name="tech">
+        <element id="directory" name="mystox">
+          <element id="directory" name="test">
+            <element id="directory" name="util">
+              <element id="file-copy" path="$PROJECT_DIR$/maintest/target/classes/tech/mystox/test/util/MystoxUtil.class" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annotation" />
+        <module name="controller-spring" />
+        <module name="hadooprpc" />
+        <module name="maintest" />
+        <module name="springboot-aop-test" />
+        <module name="springboot-mqtt" />
+        <module name="springboot2x-demo-test" />
+        <module name="test-core" />
+        <module name="test-space" />
+        <module name="thread-springboot2x-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="annotation" target="1.8" />
+      <module name="boot-rpc-zk-test" target="1.8" />
+      <module name="controller-spring" target="1.8" />
+      <module name="hadooprpc" target="1.8" />
+      <module name="maintest" target="1.8" />
+      <module name="protocol-test" target="1.5" />
+      <module name="springboot-aop-test" target="1.8" />
+      <module name="springboot-mqtt" target="1.8" />
+      <module name="springboot2x-demo-test" target="1.8" />
+      <module name="test-core" target="1.8" />
+      <module name="test-space" target="1.8" />
+      <module name="thread-springboot2x-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

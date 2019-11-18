@@ -1,0 +1,32 @@
+2019-01-21 10:59:49 上午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-21 10:59:49 上午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-21 11:00:01 上午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-21 11:00:01 上午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-21 11:00:11 上午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-21 11:00:11 上午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-21 11:01:12 上午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-21 11:01:12 上午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-21 11:07:05 上午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-21 11:07:05 上午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-21 11:14:27 上午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-21 11:14:27 上午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-21 13:06:10 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-21 13:06:10 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-21 13:06:51 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-21 13:06:51 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable

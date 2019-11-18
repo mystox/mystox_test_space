@@ -1,0 +1,850 @@
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.25\slf4j-log4j12-1.7.25.jar;E:\m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@7aec35a
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.<clinit>(ClientCnxn.java:120) ]
+DEBUG:zookeeper.disableAutoWatchReset is false
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2181
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x42efca7d001e, negotiated timeout = 5000
+2019-01-16 11:09:14 上午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+DEBUG:connected to zookeeper
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d001e, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589934789,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,104,0,0,12,0,8589934786} 
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d001e, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589934790,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d001e, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589934790,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,105,0,0,12,1,8589934790} 
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d001e, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589934790,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d001e, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589934791,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589934790,8589934791,1547608153067,1547608153090,1,0,0,73597661806622,18,0,8589934790} 
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d001e, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589934791,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,105,0,0,12,1,8589934790} 
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d001e
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x42efca7d001e
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d001e, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589934792,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d001e, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589934792,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589934792,8589934792,1547608153103,1547608153103,0,0,0,73597661806622,16,0,8589934792} 
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x42efca7d001e
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x42efca7d001e
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d001e
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x42efca7d001e
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d001e, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589934793,0  request:: null response:: null
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x42efca7d001e
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1150) ]
+DEBUG:An exception was thrown while closing send thread for session 0x42efca7d001e : Unable to read additional data from server sessionid 0x42efca7d001e, likely server has closed socket
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x42efca7d001e closed
+2019-01-16 11:09:14 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@9e89d68
+2019-01-16 11:09:14 上午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x42efca7d001e
+2019-01-16 11:09:14 上午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+DEBUG:connected to zookeeper
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2183
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x20042efca790011, negotiated timeout = 5000
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790011, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589934794,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,108,0,0,12,0,8589934793} 
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790011, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589934795,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 11:09:14 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790011, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589934795,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,109,0,0,12,1,8589934795} 
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790011, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589934795,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790011, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589934796,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589934795,8589934796,1547608153150,1547608153168,1,0,0,144188785737400337,18,0,8589934795} 
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790011, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589934796,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,109,0,0,12,1,8589934795} 
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790011
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x20042efca790011
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790011, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589934797,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790011, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589934797,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589934797,8589934797,1547608153180,1547608153180,0,0,0,144188785737400337,16,0,8589934797} 
+2019-01-16 11:09:15 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x20042efca790011
+2019-01-16 11:09:15 上午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x20042efca790011
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790011
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x20042efca790011
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790011, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589934798,0  request:: null response:: null
+2019-01-16 11:09:15 上午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x20042efca790011
+2019-01-16 11:09:15 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x20042efca790011 closed
+2019-01-16 11:09:15 上午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x20042efca790011
+2019-01-16 11:09:15 上午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@3b192d32
+2019-01-16 11:09:15 上午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+DEBUG:connected to zookeeper
+2019-01-16 11:09:15 上午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2182. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 11:09:16 上午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1166) ]
+INFO:Socket error occurred: nginx.mystox.com/172.16.5.26:2182: Connection refused: no further information
+2019-01-16 11:09:16 上午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxnSocketNIO >> Method: org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:203) ]
+DEBUG:Ignoring exception during shutdown input
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.shutdownInput(SocketChannelImpl.java:780)
+	at sun.nio.ch.SocketAdaptor.shutdownInput(SocketAdaptor.java:399)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:200)
+	at org.apache.zookeeper.ClientCnxn$SendThread.cleanup(ClientCnxn.java:1250)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1174)
+2019-01-16 11:09:16 上午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxnSocketNIO >> Method: org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:210) ]
+DEBUG:Ignoring exception during shutdown output
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:797)
+	at sun.nio.ch.SocketAdaptor.shutdownOutput(SocketAdaptor.java:407)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:207)
+	at org.apache.zookeeper.ClientCnxn$SendThread.cleanup(ClientCnxn.java:1250)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1174)
+2019-01-16 11:09:16 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 11:09:16 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-16 11:09:16 上午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2183
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@685cb137
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.<clinit>(ClientCnxn.java:120) ]
+DEBUG:zookeeper.disableAutoWatchReset is false
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2181
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x42efca7d0036, negotiated timeout = 5000
+2019-01-16 13:37:08 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0036, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935008,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,252,0,0,12,0,8589935005} 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0036, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935009,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0036, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935009,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,253,0,0,12,1,8589935009} 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0036, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935009,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0036, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935010,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935009,8589935010,1547617026271,1547617026298,1,0,0,73597661806646,18,0,8589935009} 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0036, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935010,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,253,0,0,12,1,8589935009} 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d0036
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x42efca7d0036
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0036, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935011,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0036, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935011,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935011,8589935011,1547617026314,1547617026314,0,0,0,73597661806646,16,0,8589935011} 
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x42efca7d0036
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x42efca7d0036
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d0036
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x42efca7d0036
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0036, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935012,0  request:: null response:: null
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1150) ]
+DEBUG:An exception was thrown while closing send thread for session 0x42efca7d0036 : Unable to read additional data from server sessionid 0x42efca7d0036, likely server has closed socket
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x42efca7d0036
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x42efca7d0036 closed
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@8e24743
+2019-01-16 13:37:08 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x42efca7d0036
+2019-01-16 13:37:08 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2183
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x20042efca79002f, negotiated timeout = 5000
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca79002f, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935013,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,256,0,0,12,0,8589935012} 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca79002f, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935014,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca79002f, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935014,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,257,0,0,12,1,8589935014} 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca79002f, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935014,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca79002f, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935015,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935014,8589935015,1547617026392,1547617026414,1,0,0,144188785737400367,18,0,8589935014} 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca79002f, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935015,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,257,0,0,12,1,8589935014} 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca79002f
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x20042efca79002f
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca79002f, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935016,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca79002f, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935016,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935016,8589935016,1547617026431,1547617026431,0,0,0,144188785737400367,16,0,8589935016} 
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x20042efca79002f
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x20042efca79002f
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca79002f
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x20042efca79002f
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca79002f, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935017,0  request:: null response:: null
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1150) ]
+DEBUG:An exception was thrown while closing send thread for session 0x20042efca79002f : Unable to read additional data from server sessionid 0x20042efca79002f, likely server has closed socket
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x20042efca79002f
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x20042efca79002f closed
+2019-01-16 13:37:08 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@74a10858
+2019-01-16 13:37:08 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x20042efca79002f
+2019-01-16 13:37:08 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:08 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2182. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:10 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1166) ]
+INFO:Socket error occurred: nginx.mystox.com/172.16.5.26:2182: Connection refused: no further information
+2019-01-16 13:37:10 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxnSocketNIO >> Method: org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:203) ]
+DEBUG:Ignoring exception during shutdown input
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.shutdownInput(SocketChannelImpl.java:780)
+	at sun.nio.ch.SocketAdaptor.shutdownInput(SocketAdaptor.java:399)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:200)
+	at org.apache.zookeeper.ClientCnxn$SendThread.cleanup(ClientCnxn.java:1250)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1174)
+2019-01-16 13:37:10 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxnSocketNIO >> Method: org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:210) ]
+DEBUG:Ignoring exception during shutdown output
+java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:797)
+	at sun.nio.ch.SocketAdaptor.shutdownOutput(SocketAdaptor.java:407)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:207)
+	at org.apache.zookeeper.ClientCnxn$SendThread.cleanup(ClientCnxn.java:1250)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1174)
+2019-01-16 13:37:10 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:10 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-16 13:37:10 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2183
+2019-01-16 13:37:10 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x20042efca790030, negotiated timeout = 5000
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@685cb137
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.<clinit>(ClientCnxn.java:120) ]
+DEBUG:zookeeper.disableAutoWatchReset is false
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2181
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x42efca7d0037, negotiated timeout = 5000
+2019-01-16 13:37:36 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0037, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935020,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,260,0,0,12,0,8589935017} 
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0037, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935021,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0037, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935021,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,261,0,0,12,1,8589935021} 
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0037, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935021,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0037, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935022,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935021,8589935022,1547617054697,1547617054719,1,0,0,73597661806647,18,0,8589935021} 
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0037, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935022,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,261,0,0,12,1,8589935021} 
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d0037
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x42efca7d0037
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0037, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935023,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0037, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935023,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935023,8589935023,1547617054731,1547617054731,0,0,0,73597661806647,16,0,8589935023} 
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x42efca7d0037
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x42efca7d0037
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d0037
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x42efca7d0037
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0037, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935024,0  request:: null response:: null
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x42efca7d0037
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1150) ]
+DEBUG:An exception was thrown while closing send thread for session 0x42efca7d0037 : Unable to read additional data from server sessionid 0x42efca7d0037, likely server has closed socket
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x42efca7d0037 closed
+2019-01-16 13:37:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@8e24743
+2019-01-16 13:37:36 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x42efca7d0037
+2019-01-16 13:37:36 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2181
+2019-01-16 13:37:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x42efca7d0038, negotiated timeout = 5000
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0038, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935025,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,264,0,0,12,0,8589935024} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0038, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935026,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0038, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935026,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,265,0,0,12,1,8589935026} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0038, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935026,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0038, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935027,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935026,8589935027,1547617055027,1547617055044,1,0,0,73597661806648,18,0,8589935026} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0038, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935027,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,265,0,0,12,1,8589935026} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d0038
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x42efca7d0038
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0038, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935028,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0038, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935028,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935028,8589935028,1547617055060,1547617055060,0,0,0,73597661806648,16,0,8589935028} 
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x42efca7d0038
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x42efca7d0038
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d0038
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x42efca7d0038
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0038, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935029,0  request:: null response:: null
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1150) ]
+DEBUG:An exception was thrown while closing send thread for session 0x42efca7d0038 : Unable to read additional data from server sessionid 0x42efca7d0038, likely server has closed socket
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x42efca7d0038
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x42efca7d0038 closed
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@74a10858
+2019-01-16 13:37:37 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x42efca7d0038
+2019-01-16 13:37:37 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2183
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x20042efca790031, negotiated timeout = 5000
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790031, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935030,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,268,0,0,12,0,8589935029} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790031, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935031,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790031, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935031,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,269,0,0,12,1,8589935031} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790031, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935031,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790031, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935032,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935031,8589935032,1547617055136,1547617055149,1,0,0,144188785737400369,18,0,8589935031} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790031, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935032,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,269,0,0,12,1,8589935031} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790031
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x20042efca790031
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790031, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935033,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790031, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935033,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935033,8589935033,1547617055157,1547617055157,0,0,0,144188785737400369,16,0,8589935033} 
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x20042efca790031
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x20042efca790031
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790031
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x20042efca790031
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790031, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935034,0  request:: null response:: null
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1150) ]
+DEBUG:An exception was thrown while closing send thread for session 0x20042efca790031 : Unable to read additional data from server sessionid 0x20042efca790031, likely server has closed socket
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x20042efca790031
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x20042efca790031 closed
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@23fe1d71
+2019-01-16 13:37:37 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x20042efca790031
+2019-01-16 13:37:37 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2183
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x20042efca790032, negotiated timeout = 5000
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790032, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935035,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,272,0,0,12,0,8589935034} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790032, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935036,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790032, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935036,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,273,0,0,12,1,8589935036} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790032, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935036,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790032, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935037,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935036,8589935037,1547617055193,1547617055204,1,0,0,144188785737400370,18,0,8589935036} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790032, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935037,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,273,0,0,12,1,8589935036} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790032
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x20042efca790032
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790032, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935038,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790032, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935038,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935038,8589935038,1547617055215,1547617055215,0,0,0,144188785737400370,16,0,8589935038} 
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x20042efca790032
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x20042efca790032
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790032
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x20042efca790032
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790032, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935039,0  request:: null response:: null
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x20042efca790032
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x20042efca790032 closed
+2019-01-16 13:37:37 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x20042efca790032
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@28ac3dc3
+2019-01-16 13:37:37 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2181
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x42efca7d0039, negotiated timeout = 5000
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0039, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935040,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,276,0,0,12,0,8589935039} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0039, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935041,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0039, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935041,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,277,0,0,12,1,8589935041} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0039, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935041,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0039, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935042,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935041,8589935042,1547617055257,1547617055278,1,0,0,73597661806649,18,0,8589935041} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0039, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935042,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,277,0,0,12,1,8589935041} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d0039
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x42efca7d0039
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0039, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935043,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0039, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935043,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935043,8589935043,1547617055289,1547617055289,0,0,0,73597661806649,16,0,8589935043} 
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x42efca7d0039
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x42efca7d0039
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d0039
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x42efca7d0039
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d0039, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935044,0  request:: null response:: null
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x42efca7d0039
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1150) ]
+DEBUG:An exception was thrown while closing send thread for session 0x42efca7d0039 : Unable to read additional data from server sessionid 0x42efca7d0039, likely server has closed socket
+2019-01-16 13:37:37 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x42efca7d0039
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x42efca7d0039 closed
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@32eebfca
+2019-01-16 13:37:37 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2183
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x20042efca790033, negotiated timeout = 5000
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790033, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935045,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,280,0,0,12,0,8589935044} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790033, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935046,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790033, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935046,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,281,0,0,12,1,8589935046} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790033, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935046,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790033, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935047,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935046,8589935047,1547617055332,1547617055346,1,0,0,144188785737400371,18,0,8589935046} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790033, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935047,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,281,0,0,12,1,8589935046} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790033
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x20042efca790033
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790033, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935048,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790033, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935048,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935048,8589935048,1547617055353,1547617055353,0,0,0,144188785737400371,16,0,8589935048} 
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x20042efca790033
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x20042efca790033
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790033
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x20042efca790033
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790033, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935049,0  request:: null response:: null
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x20042efca790033
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1150) ]
+DEBUG:An exception was thrown while closing send thread for session 0x20042efca790033 : Unable to read additional data from server sessionid 0x20042efca790033, likely server has closed socket
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x20042efca790033 closed
+2019-01-16 13:37:37 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x20042efca790033
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@4e718207
+2019-01-16 13:37:37 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2181
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x42efca7d003a, negotiated timeout = 5000
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003a, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935050,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,284,0,0,12,0,8589935049} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003a, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935051,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003a, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935051,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,285,0,0,12,1,8589935051} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003a, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935051,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003a, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935052,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935051,8589935052,1547617055398,1547617055409,1,0,0,73597661806650,18,0,8589935051} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003a, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935052,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,285,0,0,12,1,8589935051} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d003a
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x42efca7d003a
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003a, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935053,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003a, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935053,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935053,8589935053,1547617055415,1547617055415,0,0,0,73597661806650,16,0,8589935053} 
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x42efca7d003a
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x42efca7d003a
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d003a
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x42efca7d003a
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003a, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935054,0  request:: null response:: null
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x42efca7d003a
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1150) ]
+DEBUG:An exception was thrown while closing send thread for session 0x42efca7d003a : Unable to read additional data from server sessionid 0x42efca7d003a, likely server has closed socket
+2019-01-16 13:37:37 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x42efca7d003a
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x42efca7d003a closed
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@1d371b2d
+2019-01-16 13:37:37 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2183
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x20042efca790034, negotiated timeout = 5000
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790034, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935055,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,288,0,0,12,0,8589935054} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790034, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935056,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790034, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935056,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,289,0,0,12,1,8589935056} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790034, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935056,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790034, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935057,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935056,8589935057,1547617055458,1547617055480,1,0,0,144188785737400372,18,0,8589935056} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790034, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935057,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,289,0,0,12,1,8589935056} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790034
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x20042efca790034
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790034, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935058,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790034, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935058,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935058,8589935058,1547617055492,1547617055492,0,0,0,144188785737400372,16,0,8589935058} 
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x20042efca790034
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x20042efca790034
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790034
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x20042efca790034
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790034, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935059,0  request:: null response:: null
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1150) ]
+DEBUG:An exception was thrown while closing send thread for session 0x20042efca790034 : Unable to read additional data from server sessionid 0x20042efca790034, likely server has closed socket
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x20042efca790034
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x20042efca790034 closed
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@543c6f6d
+2019-01-16 13:37:37 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x20042efca790034
+2019-01-16 13:37:37 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2181
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x42efca7d003b, negotiated timeout = 5000
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003b, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935060,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,292,0,0,12,0,8589935059} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003b, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935061,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003b, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935061,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,293,0,0,12,1,8589935061} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003b, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935061,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003b, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935062,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935061,8589935062,1547617055559,1547617055567,1,0,0,73597661806651,18,0,8589935061} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003b, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935062,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,293,0,0,12,1,8589935061} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d003b
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x42efca7d003b
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003b, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935063,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003b, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935063,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935063,8589935063,1547617055575,1547617055575,0,0,0,73597661806651,16,0,8589935063} 
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x42efca7d003b
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x42efca7d003b
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x42efca7d003b
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x42efca7d003b
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x42efca7d003b, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935064,0  request:: null response:: null
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x42efca7d003b
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x42efca7d003b closed
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@13eb8acf
+2019-01-16 13:37:37 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x42efca7d003b
+2019-01-16 13:37:37 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:27) ]
+ERROR:connected to zookeeper
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:952) ]
+DEBUG:Session establishment request sent on nginx.mystox.com/172.16.5.26:2183
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x20042efca790035, negotiated timeout = 5000
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790035, packet:: clientPath:null serverPath:null finished:false header:: 1,3  replyHeader:: 1,8589935065,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,296,0,0,12,0,8589935064} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790035, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,8589935066,0  request:: '/testRootPath/testChildPathOne,#746573744368696c64446174614f6e65,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathOne 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790035, packet:: clientPath:null serverPath:null finished:false header:: 3,4  replyHeader:: 3,8589935066,0  request:: '/testRootPath,F  response:: #74657374526f6f7444617461,s{8589934629,8589934629,1547604303212,1547604303212,0,297,0,0,12,1,8589935066} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790035, packet:: clientPath:null serverPath:null finished:false header:: 4,8  replyHeader:: 4,8589935066,0  request:: '/testRootPath,T  response:: v{'testChildPathOne} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790035, packet:: clientPath:null serverPath:null finished:false header:: 5,5  replyHeader:: 5,8589935067,0  request:: '/testRootPath/testChildPathOne,#6d6f646966794368696c64446174614f6e65,-1  response:: s{8589935066,8589935067,1547617055611,1547617055622,1,0,0,144188785737400373,18,0,8589935066} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790035, packet:: clientPath:null serverPath:null finished:false header:: 6,3  replyHeader:: 6,8589935067,0  request:: '/testRootPath,T  response:: s{8589934629,8589934629,1547604303212,1547604303212,0,297,0,0,12,1,8589935066} 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790035
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/testRootPath for sessionid 0x20042efca790035
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790035, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,8589935068,0  request:: '/testRootPath/testChildPathTwo,#746573744368696c644461746154776f,v{s{31,s{'world,'anyone}}},1  response:: '/testRootPath/testChildPathTwo 
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790035, packet:: clientPath:null serverPath:null finished:false header:: 8,4  replyHeader:: 8,8589935068,0  request:: '/testRootPath/testChildPathTwo,T  response:: #746573744368696c644461746154776f,s{8589935068,8589935068,1547617055628,1547617055628,0,0,0,144188785737400373,16,0,8589935068} 
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:682) ]
+DEBUG:Closing session: 0x20042efca790035
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.close(ClientCnxn.java:1374) ]
+DEBUG:Closing client for session: 0x20042efca790035
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:769) ]
+DEBUG:Got notification sessionid:0x20042efca790035
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:791) ]
+DEBUG:Got WatchedEvent state:SyncConnected type:NodeDeleted path:/testRootPath/testChildPathTwo for sessionid 0x20042efca790035
+2019-01-16 13:37:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:846) ]
+DEBUG:Reading reply sessionid:0x20042efca790035, packet:: clientPath:null serverPath:null finished:false header:: 9,-11  replyHeader:: 9,8589935069,0  request:: null response:: null
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.disconnect(ClientCnxn.java:1358) ]
+DEBUG:Disconnecting client for session: 0x20042efca790035
+2019-01-16 13:37:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x20042efca790035 closed
+2019-01-16 13:37:37 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x20042efca790035

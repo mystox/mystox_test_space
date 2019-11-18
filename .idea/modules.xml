@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-rpc-zk-test/boot-rpc-zk-test.iml" filepath="$PROJECT_DIR$/boot-rpc-zk-test/boot-rpc-zk-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controller-spring/controller-spring.iml" filepath="$PROJECT_DIR$/controller-spring/controller-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadooprpc/hadooprpc.iml" filepath="$PROJECT_DIR$/hadooprpc/hadooprpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maintest/maintest.iml" filepath="$PROJECT_DIR$/maintest/maintest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-aop-test/springboot-aop-test.iml" filepath="$PROJECT_DIR$/springboot-aop-test/springboot-aop-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mqtt/springboot-mqtt.iml" filepath="$PROJECT_DIR$/springboot-mqtt/springboot-mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2x-demo-test/springboot2x-demo-test.iml" filepath="$PROJECT_DIR$/springboot2x-demo-test/springboot2x-demo-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-core/test-core.iml" filepath="$PROJECT_DIR$/test-core/test-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-space.iml" filepath="$PROJECT_DIR$/test-space.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-springboot2x-test/thread-springboot2x-test.iml" filepath="$PROJECT_DIR$/thread-springboot2x-test/thread-springboot2x-test.iml" />
+    </modules>
+  </component>
+</project>

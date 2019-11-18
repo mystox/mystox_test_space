@@ -1,0 +1,520 @@
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:23:33 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@47c62251
+2019-01-17 18:23:33 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:23:33 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-17 18:23:33 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x2004440fd410008, negotiated timeout = 30000
+2019-01-17 18:24:06 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1112) ]
+WARN:Client session timed out, have not heard from server in 32810ms for sessionid 0x2004440fd410008
+2019-01-17 18:24:13 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1160) ]
+INFO:Client session timed out, have not heard from server in 32810ms for sessionid 0x2004440fd410008, closing socket connection and attempting reconnect
+2019-01-17 18:24:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x2004440fd410008 closed
+2019-01-17 18:24:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@553a3d88
+2019-01-17 18:24:28 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x2004440fd410008
+2019-01-17 18:24:28 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:24:28 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-17 18:24:28 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x4440fd3f000b, negotiated timeout = 30000
+2019-01-17 18:24:31 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x4440fd3f000b closed
+2019-01-17 18:24:31 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x4440fd3f000b
+2019-01-17 18:24:31 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@7a30d1e6
+2019-01-17 18:24:31 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2182. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:24:32 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2182, initiating session
+2019-01-17 18:24:32 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2182, sessionid = 0x100444116d70008, negotiated timeout = 30000
+2019-01-17 18:24:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x100444116d70008 closed
+2019-01-17 18:24:36 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x100444116d70008
+2019-01-17 18:24:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@5891e32e
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x2004440fd410009, negotiated timeout = 30000
+2019-01-17 18:24:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x2004440fd410009 closed
+2019-01-17 18:24:36 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x2004440fd410009
+2019-01-17 18:24:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@cb0ed20
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x4440fd3f000c, negotiated timeout = 30000
+2019-01-17 18:24:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x4440fd3f000c closed
+2019-01-17 18:24:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@8e24743
+2019-01-17 18:24:36 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x4440fd3f000c
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2182. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2182, initiating session
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2182, sessionid = 0x100444116d70009, negotiated timeout = 30000
+2019-01-17 18:24:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x100444116d70009 closed
+2019-01-17 18:24:36 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@74a10858
+2019-01-17 18:24:36 下午 [Thread: main-EventThread][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$EventThread.run(ClientCnxn.java:522) ]
+INFO:EventThread shut down for session: 0x100444116d70009
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-17 18:24:36 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x2004440fd41000a, negotiated timeout = 30000
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@3bfdc050
+2019-01-17 18:25:00 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:25:00 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-17 18:25:00 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x4440fd3f000d, negotiated timeout = 5000
+2019-01-17 18:25:00 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:28) ]
+INFO:connected to zookeeper
+2019-01-17 18:25:00 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x4440fd3f000d closed
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:25:41 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=5000 watcher=tech.mystox.test.zookeeper.ServiceRegistryImpl@3bfdc050
+2019-01-17 18:25:41 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:25:42 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-17 18:25:42 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x4440fd3f000e, negotiated timeout = 5000
+2019-01-17 18:25:42 下午 [Thread: main][ Class:ServiceRegistryImpl >> Method: tech.mystox.test.zookeeper.ServiceRegistryImpl.<init>(ServiceRegistryImpl.java:28) ]
+INFO:connected to zookeeper
+2019-01-17 18:25:42 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x4440fd3f000e closed
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:26:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@47c62251
+2019-01-17 18:26:47 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2182. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:26:47 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2182, initiating session
+2019-01-17 18:26:47 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2182, sessionid = 0x100444116d7000a, negotiated timeout = 30000
+2019-01-17 18:26:52 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x100444116d7000a closed
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:27:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@47c62251
+2019-01-17 18:27:38 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:27:38 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-17 18:27:38 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x4440fd3f000f, negotiated timeout = 30000
+2019-01-17 18:28:16 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1112) ]
+WARN:Client session timed out, have not heard from server in 37608ms for sessionid 0x4440fd3f000f
+2019-01-17 18:28:16 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1160) ]
+INFO:Client session timed out, have not heard from server in 37608ms for sessionid 0x4440fd3f000f, closing socket connection and attempting reconnect
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@69d0a921
+2019-01-17 18:28:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:28:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-17 18:28:37 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x2004440fd41000b, negotiated timeout = 30000
+2019-01-17 18:28:37 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x2004440fd41000b closed
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@69d0a921
+2019-01-17 18:30:02 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:30:02 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-17 18:30:02 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x4440fd3f0010, negotiated timeout = 30000
+2019-01-17 18:30:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x4440fd3f0010 closed
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@69d0a921
+2019-01-17 18:30:47 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:30:47 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-17 18:30:47 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x4440fd3f0011, negotiated timeout = 30000
+2019-01-17 18:30:47 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x4440fd3f0011 closed
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@69d0a921
+2019-01-17 18:31:28 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2183. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:31:28 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2183, initiating session
+2019-01-17 18:31:28 下午 [Thread: main-SendThread(nginx.mystox.com:2183)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2183, sessionid = 0x2004440fd41000c, negotiated timeout = 30000
+2019-01-17 18:31:28 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x2004440fd41000c closed
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:33:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@69d0a921
+2019-01-17 18:33:39 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2182. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:33:39 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2182, initiating session
+2019-01-17 18:33:39 下午 [Thread: main-SendThread(nginx.mystox.com:2182)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2182, sessionid = 0x100444116d7000b, negotiated timeout = 30000
+2019-01-17 18:33:40 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x100444116d7000b closed
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:host.name=mystox
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.version=1.8.0_77
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.home=C:\Java\jdk1.8.0_77\jre
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.class.path=C:\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Java\jdk1.8.0_77\jre\lib\deploy.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_77\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_77\jre\lib\javaws.jar;C:\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Java\jdk1.8.0_77\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Java\jdk1.8.0_77\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_77\jre\lib\plugin.jar;C:\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Java\jdk1.8.0_77\jre\lib\rt.jar;E:\IdeaProjects\mystox_test_space\maintest\target\classes;E:\m2\repository\org\apache\zookeeper\zookeeper\3.4.13\zookeeper-3.4.13.jar;E:\m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;E:\m2\repository\org\apache\yetus\audience-annotations\0.5.0\audience-annotations-0.5.0.jar;E:\m2\repository\io\netty\netty\3.10.6.Final\netty-3.10.6.Final.jar;E:\m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;E:\m2\repository\org\slf4j\jcl-over-slf4j\1.7.12\jcl-over-slf4j-1.7.12.jar;E:\m2\repository\org\slf4j\slf4j-log4j12\1.7.12\slf4j-log4j12-1.7.12.jar;E:\m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;E:\JetBrains\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.library.path=C:\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;h:\app\mystoxOrcl\product\12.1.0\dbhome_1\bin;h:\app\mystox\product\12.1.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Java\jdk1.8.0_77\bin;C:\Java\jdk1.8.0_77\jre\bin;C:\Program Files (x86)\cvsnt;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;%localappdata%\Microsoft\WindowsApps;h:\Program Files (x86)\IDM Computer Solutions\UltraEdit;H:\Rational\;H:\Rational\common;C:\Program Files (x86)\MySQL\MySQL Server 5.0\bin;H:\Program Files\nodejs\;h:\Program Files\IDM Computer Solutions\UltraEdit;C:\ApacheSoftware\apache-maven-3.3.9\bin;E:\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PuTTY\;E:\spring-1.3.0.RELEASE\bin;C:\WINDOWS\System32\OpenSSH\;E:\Redis\;E:\TortoiseGit\bin;C:\Program Files\Git\cmd;E:\TortoiseSVN\bin;"H:\apache-tomcat-8.0.36\lib;H:\apache-tomcat-8.0.36\bin";;e:\Microsoft VS Code\bin;C:\Users\mystoxlol\AppData\Local\Microsoft\WindowsApps;C:\Users\mystoxlol\AppData\Roaming\npm;e:\Docker Toolbox;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;e:\Microsoft VS Code\bin;;.
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\MYSTOX~2\AppData\Local\Temp\
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:java.compiler=<NA>
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.name=Windows 10
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.arch=amd64
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:os.version=10.0
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.name=mystoxlol
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.home=C:\Users\mystoxlol
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:100) ]
+INFO:Client environment:user.dir=E:\IdeaProjects\mystox_test_space
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:442) ]
+INFO:Initiating client connection, connectString=172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 sessionTimeout=30000 watcher=tech.mystox.test.zookeeper.ZookeeperConstructorSimple$1@69d0a921
+2019-01-17 18:34:44 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1029) ]
+INFO:Opening socket connection to server nginx.mystox.com/172.16.5.26:2181. Will not attempt to authenticate using SASL (unknown error)
+2019-01-17 18:34:44 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:879) ]
+INFO:Socket connection established to nginx.mystox.com/172.16.5.26:2181, initiating session
+2019-01-17 18:34:44 下午 [Thread: main-SendThread(nginx.mystox.com:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1303) ]
+INFO:Session establishment complete on server nginx.mystox.com/172.16.5.26:2181, sessionid = 0x4440fd3f0012, negotiated timeout = 30000
+2019-01-17 18:34:44 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.close(ZooKeeper.java:693) ]
+INFO:Session: 0x4440fd3f0012 closed

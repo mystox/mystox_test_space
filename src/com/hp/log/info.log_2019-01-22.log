@@ -1,0 +1,46 @@
+2019-01-22 15:35:24 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-22 15:35:24 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-22 15:36:15 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-22 15:36:15 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-22 15:39:28 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-22 15:39:29 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-22 15:39:34 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:39:36 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 1 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:39:38 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 2 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:39:40 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 3 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:39:42 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 4 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:39:44 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 5 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:39:46 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 6 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:39:48 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 7 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:40:28 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-22 15:40:28 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-22 15:41:24 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-22 15:41:24 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-22 15:41:29 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:41:31 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 1 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:41:33 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 2 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-22 15:41:38 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-22 15:41:38 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable

@@ -1,0 +1,499 @@
+2019-01-19 11:58:55 上午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-19 11:58:55 上午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 11:59:00 上午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 11:59:02 上午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 1 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 11:59:04 上午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 2 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 11:59:06 上午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 3 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 11:59:08 上午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 4 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 11:59:10 上午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 5 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 11:59:12 上午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 6 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 11:59:14 上午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 7 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 11:59:16 上午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 8 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 11:59:18 上午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8200. Already tried 9 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 11:59:31 上午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-19 11:59:31 上午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 12:00:04 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-19 12:00:04 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 12:02:18 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-19 12:02:18 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 12:03:22 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-19 12:03:22 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 12:03:27 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8100. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 12:03:29 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8100. Already tried 1 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 12:03:31 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8100. Already tried 2 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 12:03:33 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8100. Already tried 3 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 12:03:35 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8100. Already tried 4 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 12:03:37 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8100. Already tried 5 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 12:03:39 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8100. Already tried 6 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 12:03:41 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8100. Already tried 7 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 12:03:43 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8100. Already tried 8 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 12:03:45 下午 [Thread: main][ Class:org.apache.hadoop.ipc.Client >> Method: org.apache.hadoop.ipc.Client$Connection.handleConnectionFailure(Client.java:942) ]
+INFO:Retrying connect to server: localhost/127.0.0.1:8100. Already tried 9 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)
+2019-01-19 12:04:32 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-19 12:04:33 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 12:05:03 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-19 12:05:03 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 12:06:45 下午 [Thread: main][ Class:org.apache.hadoop.ipc.CallQueueManager >> Method: org.apache.hadoop.ipc.CallQueueManager.<init>(CallQueueManager.java:84) ]
+INFO:Using callQueue: class java.util.concurrent.LinkedBlockingQueue queueCapacity: 100 scheduler: class org.apache.hadoop.ipc.DefaultRpcScheduler
+2019-01-19 12:06:45 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: {}
+java.io.FileNotFoundException: java.io.FileNotFoundException: Hadoop home directory \ is not an absolute path. -see https://wiki.apache.org/hadoop/WindowsProblems
+	at org.apache.hadoop.util.Shell.fileNotFoundException(Shell.java:549)
+	at org.apache.hadoop.util.Shell.getHadoopHomeDir(Shell.java:570)
+	at org.apache.hadoop.util.Shell.getQualifiedBin(Shell.java:593)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:690)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:78)
+	at org.apache.hadoop.conf.Configuration.getBoolean(Configuration.java:1665)
+	at org.apache.hadoop.ipc.Server.<init>(Server.java:2802)
+	at org.apache.hadoop.ipc.RPC$Server.<init>(RPC.java:960)
+	at org.apache.hadoop.ipc.WritableRpcEngine$Server.<init>(WritableRpcEngine.java:407)
+	at org.apache.hadoop.ipc.WritableRpcEngine.getServer(WritableRpcEngine.java:328)
+	at org.apache.hadoop.ipc.RPC$Builder.build(RPC.java:802)
+	at tech.mystox.test.hadoop.rpc.server.MyRpcServer.main(MyRpcServer.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.io.FileNotFoundException: Hadoop home directory \ is not an absolute path.
+	at org.apache.hadoop.util.Shell.checkHadoopHomeInner(Shell.java:488)
+	at org.apache.hadoop.util.Shell.checkHadoopHome(Shell.java:440)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:517)
+	... 13 more
+2019-01-19 12:06:45 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener$Reader.run(Server.java:1070) ]
+INFO:Starting Socket Reader #1 for port 8888
+2019-01-19 12:06:45 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 12:06:46 下午 [Thread: IPC Server listener on 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener.run(Server.java:1149) ]
+INFO:IPC Server listener on 8888: starting
+2019-01-19 12:06:46 下午 [Thread: IPC Server Responder][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Responder.run(Server.java:1310) ]
+INFO:IPC Server Responder: starting
+2019-01-19 12:10:20 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-19 12:10:20 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 14:23:58 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61146 got version -126 expected version 9
+2019-01-19 14:24:08 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61160 got version -125 expected version 9
+2019-01-19 14:24:18 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61162 got version -124 expected version 9
+2019-01-19 14:24:28 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61173 got version -123 expected version 9
+2019-01-19 14:24:38 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61175 got version -122 expected version 9
+2019-01-19 14:24:48 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61179 got version -121 expected version 9
+2019-01-19 14:24:58 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61182 got version -120 expected version 9
+2019-01-19 14:25:08 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61192 got version -119 expected version 9
+2019-01-19 14:25:18 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61211 got version -118 expected version 9
+2019-01-19 14:25:28 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61218 got version -117 expected version 9
+2019-01-19 14:25:38 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61222 got version -116 expected version 9
+2019-01-19 14:25:48 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61230 got version -115 expected version 9
+2019-01-19 14:25:58 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61235 got version -114 expected version 9
+2019-01-19 14:26:08 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61242 got version -113 expected version 9
+2019-01-19 14:26:18 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61245 got version -112 expected version 9
+2019-01-19 14:26:28 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61252 got version -111 expected version 9
+2019-01-19 14:26:38 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61255 got version -110 expected version 9
+2019-01-19 14:26:48 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61256 got version -109 expected version 9
+2019-01-19 14:26:58 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61258 got version -108 expected version 9
+2019-01-19 14:27:08 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61261 got version -107 expected version 9
+2019-01-19 14:27:18 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61268 got version -106 expected version 9
+2019-01-19 14:27:28 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61276 got version -105 expected version 9
+2019-01-19 14:27:38 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61280 got version -104 expected version 9
+2019-01-19 14:27:48 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61290 got version -103 expected version 9
+2019-01-19 14:27:58 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61297 got version -102 expected version 9
+2019-01-19 14:28:08 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61301 got version -101 expected version 9
+2019-01-19 14:28:18 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61306 got version -100 expected version 9
+2019-01-19 14:28:28 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61314 got version -99 expected version 9
+2019-01-19 14:28:38 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61325 got version -98 expected version 9
+2019-01-19 14:28:48 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61329 got version -97 expected version 9
+2019-01-19 14:28:58 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61332 got version -96 expected version 9
+2019-01-19 14:29:08 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61334 got version -95 expected version 9
+2019-01-19 14:29:18 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61338 got version -94 expected version 9
+2019-01-19 14:29:28 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61340 got version -93 expected version 9
+2019-01-19 14:29:38 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61362 got version -92 expected version 9
+2019-01-19 14:29:48 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61366 got version -91 expected version 9
+2019-01-19 14:29:58 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61371 got version -90 expected version 9
+2019-01-19 14:30:08 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61374 got version -89 expected version 9
+2019-01-19 14:30:18 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61376 got version -88 expected version 9
+2019-01-19 14:30:28 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61382 got version -87 expected version 9
+2019-01-19 14:30:38 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61392 got version -86 expected version 9
+2019-01-19 14:30:48 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61399 got version -85 expected version 9
+2019-01-19 14:30:58 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61410 got version -84 expected version 9
+2019-01-19 14:31:08 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61412 got version -83 expected version 9
+2019-01-19 14:31:18 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61420 got version -82 expected version 9
+2019-01-19 14:31:28 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61446 got version -81 expected version 9
+2019-01-19 14:31:38 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61487 got version -80 expected version 9
+2019-01-19 14:31:48 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61489 got version -79 expected version 9
+2019-01-19 14:31:58 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61495 got version -78 expected version 9
+2019-01-19 14:32:08 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61498 got version -77 expected version 9
+2019-01-19 14:32:18 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61501 got version -76 expected version 9
+2019-01-19 14:32:28 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61510 got version -75 expected version 9
+2019-01-19 14:32:38 下午 [Thread: Socket Reader #1 for port 8888][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Connection.readAndProcess(Server.java:2072) ]
+WARN:Incorrect header or version mismatch from 127.0.0.1:61516 got version -74 expected version 9
+2019-01-19 14:41:51 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2019-01-19 14:41:52 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 14:42:16 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) ]
+INFO:Starting ControllerSpringApplication on mystox with PID 29408 (E:\IdeaProjects\mystox_test_space\controller-spring\target\classes started by mystoxlol in E:\IdeaProjects\mystox_test_space)
+2019-01-19 14:42:16 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:675) ]
+INFO:No active profile set, falling back to default profiles: default
+2019-01-19 14:42:19 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) ]
+INFO:Started ControllerSpringApplication in 3.845 seconds (JVM running for 5.139)
+2019-01-19 14:42:19 下午 [Thread: main][ Class:org.apache.hadoop.ipc.CallQueueManager >> Method: org.apache.hadoop.ipc.CallQueueManager.<init>(CallQueueManager.java:84) ]
+INFO:Using callQueue: class java.util.concurrent.LinkedBlockingQueue queueCapacity: 100 scheduler: class org.apache.hadoop.ipc.DefaultRpcScheduler
+2019-01-19 14:42:20 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: {}
+java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+	at org.apache.hadoop.util.Shell.fileNotFoundException(Shell.java:549)
+	at org.apache.hadoop.util.Shell.getHadoopHomeDir(Shell.java:570)
+	at org.apache.hadoop.util.Shell.getQualifiedBin(Shell.java:593)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:690)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:78)
+	at org.apache.hadoop.conf.Configuration.getBoolean(Configuration.java:1665)
+	at org.apache.hadoop.ipc.Server.<init>(Server.java:2802)
+	at org.apache.hadoop.ipc.RPC$Server.<init>(RPC.java:960)
+	at org.apache.hadoop.ipc.WritableRpcEngine$Server.<init>(WritableRpcEngine.java:407)
+	at org.apache.hadoop.ipc.WritableRpcEngine.getServer(WritableRpcEngine.java:328)
+	at org.apache.hadoop.ipc.RPC$Builder.build(RPC.java:802)
+	at tech.mystox.test.runner.ControllerInit.run(ControllerInit.java:38)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:794)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:324)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at tech.mystox.test.ControllerSpringApplication.main(ControllerSpringApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset.
+	at org.apache.hadoop.util.Shell.checkHadoopHomeInner(Shell.java:469)
+	at org.apache.hadoop.util.Shell.checkHadoopHome(Shell.java:440)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:517)
+	... 19 more
+2019-01-19 14:42:20 下午 [Thread: Socket Reader #1 for port 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener$Reader.run(Server.java:1070) ]
+INFO:Starting Socket Reader #1 for port 8200
+2019-01-19 14:42:20 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 14:42:20 下午 [Thread: IPC Server Responder][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Responder.run(Server.java:1310) ]
+INFO:IPC Server Responder: starting
+2019-01-19 14:42:20 下午 [Thread: IPC Server listener on 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener.run(Server.java:1149) ]
+INFO:IPC Server listener on 8200: starting
+2019-01-19 14:46:15 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) ]
+INFO:Starting ControllerSpringApplication on mystox with PID 13296 (E:\IdeaProjects\mystox_test_space\controller-spring\target\classes started by mystoxlol in E:\IdeaProjects\mystox_test_space)
+2019-01-19 14:46:15 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:675) ]
+INFO:No active profile set, falling back to default profiles: default
+2019-01-19 14:46:19 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) ]
+INFO:Started ControllerSpringApplication in 4.739 seconds (JVM running for 6.175)
+2019-01-19 14:46:19 下午 [Thread: main][ Class:org.apache.hadoop.ipc.CallQueueManager >> Method: org.apache.hadoop.ipc.CallQueueManager.<init>(CallQueueManager.java:84) ]
+INFO:Using callQueue: class java.util.concurrent.LinkedBlockingQueue queueCapacity: 100 scheduler: class org.apache.hadoop.ipc.DefaultRpcScheduler
+2019-01-19 14:46:19 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: {}
+java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+	at org.apache.hadoop.util.Shell.fileNotFoundException(Shell.java:549)
+	at org.apache.hadoop.util.Shell.getHadoopHomeDir(Shell.java:570)
+	at org.apache.hadoop.util.Shell.getQualifiedBin(Shell.java:593)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:690)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:78)
+	at org.apache.hadoop.conf.Configuration.getBoolean(Configuration.java:1665)
+	at org.apache.hadoop.ipc.Server.<init>(Server.java:2802)
+	at org.apache.hadoop.ipc.RPC$Server.<init>(RPC.java:960)
+	at org.apache.hadoop.ipc.WritableRpcEngine$Server.<init>(WritableRpcEngine.java:407)
+	at org.apache.hadoop.ipc.WritableRpcEngine.getServer(WritableRpcEngine.java:328)
+	at org.apache.hadoop.ipc.RPC$Builder.build(RPC.java:802)
+	at tech.mystox.test.runner.ControllerInit.run(ControllerInit.java:38)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:794)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:324)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at tech.mystox.test.ControllerSpringApplication.main(ControllerSpringApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset.
+	at org.apache.hadoop.util.Shell.checkHadoopHomeInner(Shell.java:469)
+	at org.apache.hadoop.util.Shell.checkHadoopHome(Shell.java:440)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:517)
+	... 19 more
+2019-01-19 14:46:19 下午 [Thread: Socket Reader #1 for port 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener$Reader.run(Server.java:1070) ]
+INFO:Starting Socket Reader #1 for port 8200
+2019-01-19 14:46:19 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 14:46:19 下午 [Thread: IPC Server Responder][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Responder.run(Server.java:1310) ]
+INFO:IPC Server Responder: starting
+2019-01-19 14:46:19 下午 [Thread: IPC Server listener on 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener.run(Server.java:1149) ]
+INFO:IPC Server listener on 8200: starting
+2019-01-19 14:46:50 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) ]
+INFO:Starting ControllerSpringApplication on mystox with PID 20888 (E:\IdeaProjects\mystox_test_space\controller-spring\target\classes started by mystoxlol in E:\IdeaProjects\mystox_test_space)
+2019-01-19 14:46:50 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:675) ]
+INFO:No active profile set, falling back to default profiles: default
+2019-01-19 14:46:53 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) ]
+INFO:Started ControllerSpringApplication in 4.136 seconds (JVM running for 5.55)
+2019-01-19 14:46:53 下午 [Thread: main][ Class:org.apache.hadoop.ipc.CallQueueManager >> Method: org.apache.hadoop.ipc.CallQueueManager.<init>(CallQueueManager.java:84) ]
+INFO:Using callQueue: class java.util.concurrent.LinkedBlockingQueue queueCapacity: 100 scheduler: class org.apache.hadoop.ipc.DefaultRpcScheduler
+2019-01-19 14:46:53 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: {}
+java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+	at org.apache.hadoop.util.Shell.fileNotFoundException(Shell.java:549)
+	at org.apache.hadoop.util.Shell.getHadoopHomeDir(Shell.java:570)
+	at org.apache.hadoop.util.Shell.getQualifiedBin(Shell.java:593)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:690)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:78)
+	at org.apache.hadoop.conf.Configuration.getBoolean(Configuration.java:1665)
+	at org.apache.hadoop.ipc.Server.<init>(Server.java:2802)
+	at org.apache.hadoop.ipc.RPC$Server.<init>(RPC.java:960)
+	at org.apache.hadoop.ipc.WritableRpcEngine$Server.<init>(WritableRpcEngine.java:407)
+	at org.apache.hadoop.ipc.WritableRpcEngine.getServer(WritableRpcEngine.java:328)
+	at org.apache.hadoop.ipc.RPC$Builder.build(RPC.java:802)
+	at tech.mystox.test.runner.ControllerInit.run(ControllerInit.java:38)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:794)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:324)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at tech.mystox.test.ControllerSpringApplication.main(ControllerSpringApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset.
+	at org.apache.hadoop.util.Shell.checkHadoopHomeInner(Shell.java:469)
+	at org.apache.hadoop.util.Shell.checkHadoopHome(Shell.java:440)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:517)
+	... 19 more
+2019-01-19 14:46:53 下午 [Thread: Socket Reader #1 for port 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener$Reader.run(Server.java:1070) ]
+INFO:Starting Socket Reader #1 for port 8200
+2019-01-19 14:46:54 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 14:46:54 下午 [Thread: IPC Server Responder][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Responder.run(Server.java:1310) ]
+INFO:IPC Server Responder: starting
+2019-01-19 14:46:54 下午 [Thread: IPC Server listener on 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener.run(Server.java:1149) ]
+INFO:IPC Server listener on 8200: starting
+2019-01-19 14:47:10 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) ]
+INFO:Starting ControllerSpringApplication on mystox with PID 28768 (E:\IdeaProjects\mystox_test_space\controller-spring\target\classes started by mystoxlol in E:\IdeaProjects\mystox_test_space)
+2019-01-19 14:47:10 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:675) ]
+INFO:No active profile set, falling back to default profiles: default
+2019-01-19 14:47:13 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) ]
+INFO:Started ControllerSpringApplication in 4.442 seconds (JVM running for 5.815)
+2019-01-19 14:47:14 下午 [Thread: main][ Class:org.apache.hadoop.ipc.CallQueueManager >> Method: org.apache.hadoop.ipc.CallQueueManager.<init>(CallQueueManager.java:84) ]
+INFO:Using callQueue: class java.util.concurrent.LinkedBlockingQueue queueCapacity: 100 scheduler: class org.apache.hadoop.ipc.DefaultRpcScheduler
+2019-01-19 14:47:14 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: {}
+java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+	at org.apache.hadoop.util.Shell.fileNotFoundException(Shell.java:549)
+	at org.apache.hadoop.util.Shell.getHadoopHomeDir(Shell.java:570)
+	at org.apache.hadoop.util.Shell.getQualifiedBin(Shell.java:593)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:690)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:78)
+	at org.apache.hadoop.conf.Configuration.getBoolean(Configuration.java:1665)
+	at org.apache.hadoop.ipc.Server.<init>(Server.java:2802)
+	at org.apache.hadoop.ipc.RPC$Server.<init>(RPC.java:960)
+	at org.apache.hadoop.ipc.WritableRpcEngine$Server.<init>(WritableRpcEngine.java:407)
+	at org.apache.hadoop.ipc.WritableRpcEngine.getServer(WritableRpcEngine.java:328)
+	at org.apache.hadoop.ipc.RPC$Builder.build(RPC.java:802)
+	at tech.mystox.test.runner.ControllerInit.run(ControllerInit.java:38)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:794)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:324)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at tech.mystox.test.ControllerSpringApplication.main(ControllerSpringApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset.
+	at org.apache.hadoop.util.Shell.checkHadoopHomeInner(Shell.java:469)
+	at org.apache.hadoop.util.Shell.checkHadoopHome(Shell.java:440)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:517)
+	... 19 more
+2019-01-19 14:47:14 下午 [Thread: Socket Reader #1 for port 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener$Reader.run(Server.java:1070) ]
+INFO:Starting Socket Reader #1 for port 8200
+2019-01-19 14:47:14 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 14:47:14 下午 [Thread: IPC Server listener on 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener.run(Server.java:1149) ]
+INFO:IPC Server listener on 8200: starting
+2019-01-19 14:47:14 下午 [Thread: IPC Server Responder][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Responder.run(Server.java:1310) ]
+INFO:IPC Server Responder: starting
+2019-01-19 14:47:54 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) ]
+INFO:Starting ControllerSpringApplication on mystox with PID 30544 (E:\IdeaProjects\mystox_test_space\controller-spring\target\classes started by mystoxlol in E:\IdeaProjects\mystox_test_space)
+2019-01-19 14:47:54 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:675) ]
+INFO:No active profile set, falling back to default profiles: default
+2019-01-19 14:47:58 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) ]
+INFO:Started ControllerSpringApplication in 4.57 seconds (JVM running for 5.895)
+2019-01-19 14:47:58 下午 [Thread: main][ Class:org.apache.hadoop.ipc.CallQueueManager >> Method: org.apache.hadoop.ipc.CallQueueManager.<init>(CallQueueManager.java:84) ]
+INFO:Using callQueue: class java.util.concurrent.LinkedBlockingQueue queueCapacity: 100 scheduler: class org.apache.hadoop.ipc.DefaultRpcScheduler
+2019-01-19 14:47:58 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: {}
+java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+	at org.apache.hadoop.util.Shell.fileNotFoundException(Shell.java:549)
+	at org.apache.hadoop.util.Shell.getHadoopHomeDir(Shell.java:570)
+	at org.apache.hadoop.util.Shell.getQualifiedBin(Shell.java:593)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:690)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:78)
+	at org.apache.hadoop.conf.Configuration.getBoolean(Configuration.java:1665)
+	at org.apache.hadoop.ipc.Server.<init>(Server.java:2802)
+	at org.apache.hadoop.ipc.RPC$Server.<init>(RPC.java:960)
+	at org.apache.hadoop.ipc.WritableRpcEngine$Server.<init>(WritableRpcEngine.java:407)
+	at org.apache.hadoop.ipc.WritableRpcEngine.getServer(WritableRpcEngine.java:328)
+	at org.apache.hadoop.ipc.RPC$Builder.build(RPC.java:802)
+	at tech.mystox.test.runner.ControllerInit.run(ControllerInit.java:38)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:794)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:324)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at tech.mystox.test.ControllerSpringApplication.main(ControllerSpringApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset.
+	at org.apache.hadoop.util.Shell.checkHadoopHomeInner(Shell.java:469)
+	at org.apache.hadoop.util.Shell.checkHadoopHome(Shell.java:440)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:517)
+	... 19 more
+2019-01-19 14:47:58 下午 [Thread: Socket Reader #1 for port 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener$Reader.run(Server.java:1070) ]
+INFO:Starting Socket Reader #1 for port 8200
+2019-01-19 14:47:58 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 14:47:58 下午 [Thread: IPC Server Responder][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Responder.run(Server.java:1310) ]
+INFO:IPC Server Responder: starting
+2019-01-19 14:47:58 下午 [Thread: IPC Server listener on 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener.run(Server.java:1149) ]
+INFO:IPC Server listener on 8200: starting
+2019-01-19 14:53:24 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) ]
+INFO:Starting ControllerSpringApplication on mystox with PID 22424 (E:\IdeaProjects\mystox_test_space\controller-spring\target\classes started by mystoxlol in E:\IdeaProjects\mystox_test_space)
+2019-01-19 14:53:24 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:675) ]
+INFO:No active profile set, falling back to default profiles: default
+2019-01-19 14:53:27 下午 [Thread: main][ Class:tech.mystox.test.ControllerSpringApplication >> Method: org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) ]
+INFO:Started ControllerSpringApplication in 3.927 seconds (JVM running for 5.324)
+2019-01-19 14:53:27 下午 [Thread: main][ Class:org.apache.hadoop.ipc.CallQueueManager >> Method: org.apache.hadoop.ipc.CallQueueManager.<init>(CallQueueManager.java:84) ]
+INFO:Using callQueue: class java.util.concurrent.LinkedBlockingQueue queueCapacity: 100 scheduler: class org.apache.hadoop.ipc.DefaultRpcScheduler
+2019-01-19 14:53:27 下午 [Thread: main][ Class:org.apache.hadoop.util.Shell >> Method: org.apache.hadoop.util.Shell.<clinit>(Shell.java:694) ]
+WARN:Did not find winutils.exe: {}
+java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+	at org.apache.hadoop.util.Shell.fileNotFoundException(Shell.java:549)
+	at org.apache.hadoop.util.Shell.getHadoopHomeDir(Shell.java:570)
+	at org.apache.hadoop.util.Shell.getQualifiedBin(Shell.java:593)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:690)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:78)
+	at org.apache.hadoop.conf.Configuration.getBoolean(Configuration.java:1665)
+	at org.apache.hadoop.ipc.Server.<init>(Server.java:2802)
+	at org.apache.hadoop.ipc.RPC$Server.<init>(RPC.java:960)
+	at org.apache.hadoop.ipc.WritableRpcEngine$Server.<init>(WritableRpcEngine.java:407)
+	at org.apache.hadoop.ipc.WritableRpcEngine.getServer(WritableRpcEngine.java:328)
+	at org.apache.hadoop.ipc.RPC$Builder.build(RPC.java:802)
+	at tech.mystox.test.runner.ControllerInit.run(ControllerInit.java:38)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:794)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:324)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at tech.mystox.test.ControllerSpringApplication.main(ControllerSpringApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset.
+	at org.apache.hadoop.util.Shell.checkHadoopHomeInner(Shell.java:469)
+	at org.apache.hadoop.util.Shell.checkHadoopHome(Shell.java:440)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:517)
+	... 19 more
+2019-01-19 14:53:27 下午 [Thread: Socket Reader #1 for port 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener$Reader.run(Server.java:1070) ]
+INFO:Starting Socket Reader #1 for port 8200
+2019-01-19 14:53:28 下午 [Thread: main][ Class:org.apache.hadoop.util.NativeCodeLoader >> Method: org.apache.hadoop.util.NativeCodeLoader.<clinit>(NativeCodeLoader.java:60) ]
+WARN:Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-01-19 14:53:28 下午 [Thread: IPC Server listener on 8200][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Listener.run(Server.java:1149) ]
+INFO:IPC Server listener on 8200: starting
+2019-01-19 14:53:28 下午 [Thread: IPC Server Responder][ Class:org.apache.hadoop.ipc.Server >> Method: org.apache.hadoop.ipc.Server$Responder.run(Server.java:1310) ]
+INFO:IPC Server Responder: starting

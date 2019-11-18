@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: tech.mystox.test:ha:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tech/mystox/test/ha/unknown/ha-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/tech/mystox/test/ha/unknown/ha-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/tech/mystox/test/ha/unknown/ha-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

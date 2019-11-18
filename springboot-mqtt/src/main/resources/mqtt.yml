@@ -1,0 +1,8 @@
+mqtt:
+  producer:
+    clientId: ${server.name}_${server.version}_producer
+    defaultTopic: topic_mqtt
+  completionTimeout: 3000
+  consumer:
+    clientId: ${server.name}_${server.version}_consumer
+    defaultTopic: topic_mqtt
