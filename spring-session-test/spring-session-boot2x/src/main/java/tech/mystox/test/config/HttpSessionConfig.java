@@ -21,24 +21,25 @@ import java.net.UnknownHostException;
 @EnableRedisHttpSession
 public class HttpSessionConfig {
 
+    /**
+     * @Date 14:55 2019/11/18
+     * @Param No such property: code for class: Script1
+     * @return org.springframework.session.web.http.HttpSessionIdResolver
+     * @Author mystox
+     * @Description //设置sessionId 策略器的一些方式
+     **/
     @Bean
     public HttpSessionIdResolver httpSessionStrategy()//springboot 2.0 需要将HttpSessionStrategy 改为idResolver
     {
         CookieHttpSessionIdResolver cookieHttpSessionIdResolver = new CookieHttpSessionIdResolver();
         DefaultCookieSerializer cookieSerializer = new DefaultCookieSerializer();
 //        cookieSerializer.setUseSecureCookie(false);
-        cookieSerializer.setUseBase64Encoding(false);
+        cookieSerializer.setUseBase64Encoding(false); //关闭session的加密
 //        cookieSerializer.setUseHttpOnlyCookie(false);
         cookieHttpSessionIdResolver.setCookieSerializer(cookieSerializer);
         return cookieHttpSessionIdResolver;
     }
 
-    /* @Bean
-     public HttpSessionStrategy httpSessionStrategy()
-     {
-         return new CookieHttpSessionStrategy();
-     }
- */
     @Bean
     public ConfigureRedisAction configureRedisAction()
     {

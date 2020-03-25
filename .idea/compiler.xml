@@ -10,8 +10,10 @@
         <module name="controller-spring" />
         <module name="hadooprpc" />
         <module name="maintest" />
+        <module name="mongodb-test-space-1x" />
         <module name="spring-session-boot1x" />
         <module name="spring-session-boot2x" />
+        <module name="spring-session-core" />
         <module name="springboot-aop-test" />
         <module name="springboot-mqtt" />
         <module name="springboot2x-demo-test" />
@@ -25,9 +27,11 @@
       <module name="controller-spring" target="1.8" />
       <module name="hadooprpc" target="1.8" />
       <module name="maintest" target="1.8" />
+      <module name="mongodb-test-space-1x" target="1.8" />
       <module name="protocol-test" target="1.5" />
       <module name="spring-session-boot1x" target="1.8" />
       <module name="spring-session-boot2x" target="1.8" />
+      <module name="spring-session-core" target="1.5" />
       <module name="spring-session-test" target="1.8" />
       <module name="springboot-aop-test" target="1.8" />
       <module name="springboot-mqtt" target="1.8" />

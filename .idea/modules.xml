@@ -7,8 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/controller-spring/controller-spring.iml" filepath="$PROJECT_DIR$/controller-spring/controller-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/hadooprpc/hadooprpc.iml" filepath="$PROJECT_DIR$/hadooprpc/hadooprpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/maintest/maintest.iml" filepath="$PROJECT_DIR$/maintest/maintest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb-test-space-1x/mongodb-test-space-1x.iml" filepath="$PROJECT_DIR$/mongodb-test-space-1x/mongodb-test-space-1x.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-session-test/spring-session-boot1x/spring-session-boot1x.iml" filepath="$PROJECT_DIR$/spring-session-test/spring-session-boot1x/spring-session-boot1x.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-session-test/spring-session-boot2x/spring-session-boot2x.iml" filepath="$PROJECT_DIR$/spring-session-test/spring-session-boot2x/spring-session-boot2x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-session-test/spring-session-core/spring-session-core.iml" filepath="$PROJECT_DIR$/spring-session-test/spring-session-core/spring-session-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-session-test/spring-session-test.iml" filepath="$PROJECT_DIR$/spring-session-test/spring-session-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-aop-test/springboot-aop-test.iml" filepath="$PROJECT_DIR$/springboot-aop-test/springboot-aop-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mqtt/springboot-mqtt.iml" filepath="$PROJECT_DIR$/springboot-mqtt/springboot-mqtt.iml" />

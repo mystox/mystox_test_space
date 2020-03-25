@@ -1,0 +1,2 @@
+mongodb:
+  uri: mongodb://172.16.5.61:27017/alarm_server

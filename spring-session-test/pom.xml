@@ -17,6 +17,7 @@
     <modules>
         <module>spring-session-boot1x</module>
         <module>spring-session-boot2x</module>
+        <module>spring-session-core</module>
     </modules>
 
 </project>
