@@ -13,6 +13,16 @@ import io.swagger.annotations.ApiModelProperty;
 public class TestQuery {
     @ApiModelProperty("参数实体")
     TestVo vo;
+    @ApiModelProperty(value = "json字符", example = "{123123123123123}")
+    private String jsonStr;
+
+    public String getJsonStr() {
+        return jsonStr;
+    }
+
+    public void setJsonStr(String jsonStr) {
+        this.jsonStr = jsonStr;
+    }
 
     public TestVo getVo() {
         return vo;

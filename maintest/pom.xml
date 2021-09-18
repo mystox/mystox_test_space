@@ -37,10 +37,6 @@
             <artifactId>test-core</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-        <dependency>
-            <groupId>tech.mystox.test</groupId>
-            <artifactId>ha</artifactId>
-        </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-common -->
         <dependency>
             <groupId>org.apache.hadoop</groupId>

@@ -17,7 +17,7 @@ public class Springboot2xDemoTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Springboot2xDemoTestApplication.class, args);
-		testSpringClassLoader();
+//		testSpringClassLoader();
 	}
 
 

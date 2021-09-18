@@ -1,5 +1,5 @@
 zookeeper:
-  url: 172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183 #zookeeper???
+  url: 192.168.0.234:2181 #zookeeper???
   sessionTimeout: 500
   #?????
   enable: true

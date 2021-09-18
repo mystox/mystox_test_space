@@ -1,0 +1,33 @@
+target
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/AppResources/sn/
+/testResources/
+/reportsResources/
+.flattened-pom.xml
+application-dev.yml
+/logstash*
+/logstash
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+**/target/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/

@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/spring-session-test/spring-session-boot1x/pom.xml" />
         <option value="$PROJECT_DIR$/spring-session-test/spring-session-boot2x/pom.xml" />
         <option value="$PROJECT_DIR$/mongodb-test-space-1x/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-test/pom.xml" />
       </list>
     </option>
   </component>
