@@ -16,7 +16,8 @@ public class ZookTest
     {
         for (int i= 0; i< 1; i++)
         {
-            ServiceRegistry serviceRegistry = new ServiceRegistryImpl("172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183");
+//            ServiceRegistry serviceRegistry = new ServiceRegistryImpl("172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183");
+            ServiceRegistry serviceRegistry = new ServiceRegistryImpl("192.168.0.201:2181");
             serviceRegistry.register(null, null);
             serviceRegistry.getData("/test01");
             serviceRegistry.close();

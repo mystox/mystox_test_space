@@ -16,6 +16,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.util.concurrent.CountDownLatch;
 
 public class Executor
         implements Watcher, Runnable, DataMonitor.DataMonitorListener
@@ -32,12 +33,15 @@ public class Executor
 
     Process child;
 
+    private CountDownLatch latch = new CountDownLatch(1);
+
     public Executor(String hostPort, String znode, String filename,
-                    String exec[]) throws KeeperException, IOException {
+                    String exec[]) throws KeeperException, IOException, InterruptedException {
         this.filename = filename;
         this.exec = exec;
         zk = new ZooKeeper(hostPort, 3000, this);
-        dm = new DataMonitor(zk, znode, null, this);
+        dm = new DataMonitor(zk, znode, null, this,latch);
+        latch.await();
     }
 
     /**
@@ -56,17 +60,22 @@ public class Executor
 //        System.arraycopy(args, 3, exec, 0, exec.length);
 
 
-        String hostPort = "172.16.5.26:2181";
-        String znode = "/";
+        String hostPort = "192.168.0.201:2181";
+        String znode = "/test";
         String filename = "a";
         String exec[] = {"set","/javatest"};
 //        System.arraycopy(args, 3, exec, 0, exec.length);
         try {
-            new Executor(hostPort, znode, filename, exec).run();
+            Executor b = new Executor(hostPort, znode, "b", exec);
+            b.run();
+//            Executor a = new Executor(hostPort, znode, "a", exec);
+//            a.run();
+            Thread.sleep(10000L);
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
+
 
     /***************************************************************************
      * We do process any events ourselves, we just need to forward them on.
@@ -78,9 +87,11 @@ public class Executor
     }
 
     public void run() {
+        Thread.currentThread().setName(filename);
         try {
             synchronized (this) {
                 while (!dm.dead) {
+                    System.out.println(filename+"---lock");
                     wait();
                 }
             }

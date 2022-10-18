@@ -12,6 +12,7 @@ import org.apache.zookeeper.ZooKeeper;
 import org.apache.zookeeper.data.Stat;
 
 import java.util.Arrays;
+import java.util.concurrent.CountDownLatch;
 
 public class DataMonitor implements Watcher, StatCallback {
 
@@ -27,15 +28,18 @@ public class DataMonitor implements Watcher, StatCallback {
 
     byte prevData[];
 
+    private final CountDownLatch countDownLatch;
+
     public DataMonitor(ZooKeeper zk, String znode, Watcher chainedWatcher,
-                       DataMonitorListener listener) {
+                       DataMonitorListener listener, CountDownLatch latch) {
         this.zk = zk;
         this.znode = znode;
         this.chainedWatcher = chainedWatcher;
         this.listener = listener;
+        this.countDownLatch = latch;
         // Get things started by checking if the node exists. We are going
         // to be completely event driven
-        zk.exists(znode, true, this, null);
+//        zk.exists(znode, true, this, null);
     }
 
     /**
@@ -67,6 +71,7 @@ public class DataMonitor implements Watcher, StatCallback {
                     // here - watches are automatically re-registered with
                     // server and any watches triggered while the client was
                     // disconnected will be delivered (in order of course)
+                    countDownLatch.countDown();
                     break;
                 case Expired:
                     // It's all over

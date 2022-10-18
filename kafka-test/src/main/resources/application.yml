@@ -1,22 +1,33 @@
-
+kafka:
+  consumer:
+    time: 100
 spring:
   kafka:
     consumer:
-      group-id: test
-      auto-offset-reset: earliest
-      enable-auto-commit: false
+
+      group-id: clusterD
+      auto-offset-reset: latest
+      enable-auto-commit: true
       value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
       key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
       client-id: 11111111111111111111
+      max-poll-records:
     producer:
       batch-size: 16384
       buffer-memory: 33554432
       retries: 0
       key-serializer: org.apache.kafka.common.serialization.StringSerializer
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
+#    bootstrap-servers: 192.168.0.116:9092,192.168.0.118:9092,192.168.0.219:9092
+#    bootstrap-servers: 121.43.98.132:9092
+#    bootstrap-servers: 121.43.98.132:9093,121.43.98.132:9094,121.43.98.132:9095
+#    bootstrap-servers: 192.168.0.234:9093,192.168.0.234:9094,192.168.0.234:9095
     bootstrap-servers: 192.168.0.234:9093,192.168.0.234:9094,192.168.0.234:9095
+#    bootstrap-servers: 192.168.0.201:9093
+    listener:
+      concurrency: 6
 server:
-  port: 11111
+  port: 11113
 logging:
   level:
     root: info

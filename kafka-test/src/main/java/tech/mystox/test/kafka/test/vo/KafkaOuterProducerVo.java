@@ -11,12 +11,27 @@ public class KafkaOuterProducerVo {
 
     @ApiModelProperty(value = "topic",example = "test.init.sourceA")
     String kafkaTopic;
-    @ApiModelProperty(value = "消息实体，例子为写入",example = "{\n" +
-            "\"ip\":\"192.168.2.100\",\n" +
-            "\"content\":\"Cpu total percent is [98%]\"\n" +
-            "}")
+    @ApiModelProperty(value = "消息实体，例子为写入",example = "test kafka payload")
     String msg;
 
+    Integer count = 1;
+    Integer frequency = 1000;
+
+    public Integer getCount() {
+        return count;
+    }
+
+    public void setCount(Integer count) {
+        this.count = count;
+    }
+
+    public Integer getFrequency() {
+        return frequency;
+    }
+
+    public void setFrequency(Integer frequency) {
+        this.frequency = frequency;
+    }
 
     public String getKafkaUrl() {
         return kafkaUrl;

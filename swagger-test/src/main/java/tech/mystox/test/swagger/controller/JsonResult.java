@@ -15,9 +15,11 @@ import io.swagger.annotations.ApiModelProperty;
 
 import java.io.Serializable;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
-@ApiModel("统一响应实体")
+@ApiModel(description = "统一响应实体")
 public class JsonResult<T> implements Serializable{
 
     @ApiModelProperty("请求信息")
@@ -118,4 +120,17 @@ public class JsonResult<T> implements Serializable{
         }
     }
 
+    public static void main(String[] args) {
+        List<String> a = new ArrayList<>();
+        a.add("s");
+        a.add("s");
+
+        System.out.println(a);
+//        a.remove("s");
+        List<String> b = new ArrayList<>();
+        b.add("s");
+        a.removeAll(b);
+        a.remove("s");
+        System.out.println(a);
+    }
 }
