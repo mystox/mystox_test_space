@@ -10,7 +10,7 @@ spring:
       enable-auto-commit: true
       value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
       key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
-      client-id: 11111111111111111111
+      client-id: 111111111111111111113
       max-poll-records:
     producer:
       batch-size: 16384
@@ -22,12 +22,14 @@ spring:
 #    bootstrap-servers: 121.43.98.132:9092
 #    bootstrap-servers: 121.43.98.132:9093,121.43.98.132:9094,121.43.98.132:9095
 #    bootstrap-servers: 192.168.0.234:9093,192.168.0.234:9094,192.168.0.234:9095
-    bootstrap-servers: 192.168.0.234:9093,192.168.0.234:9094,192.168.0.234:9095
-#    bootstrap-servers: 192.168.0.201:9093
+#    bootstrap-servers: 172.21.150.185:19093
+    bootstrap-servers: 192.168.50.101:9093
+#    bootstrap-servers: 10.240.30.205:9093,10.240.30.206:9094,10.240.30.207:9095
+#    bootstrap-servers: 172.21.150.180:9094
     listener:
-      concurrency: 6
+      concurrency: 3
 server:
-  port: 11113
+  port: 8888
 logging:
   level:
     root: info

@@ -12,6 +12,8 @@
         <module>kafka-test</module>
         <module>swagger-test</module>
         <module>idea-eval-resetter</module>
+        <module>fastjson-test</module>
+        <module>aspose-test</module>
     </modules>
     <name>mystox-test-space</name>
 	<description>测试项目目录</description>

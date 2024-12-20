@@ -2,19 +2,22 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="annotation" />
+        <module name="spring-boot-2-4-demo" />
         <module name="redis-test" />
         <module name="spring-session-core" />
-        <module name="maintest" />
-        <module name="hadooprpc" />
         <module name="thread-springboot2x-test" />
         <module name="spring-session-boot2x" />
+        <module name="hadoop-rpc" />
         <module name="springboot2x-demo-test" />
+        <module name="main-test (2)" />
         <module name="kafka-test" />
+        <module name="aspose-test" />
         <module name="mongodb-test-space-1x" />
         <module name="idea-eval-resetter" />
         <module name="spring-session-boot1x" />
@@ -26,35 +29,20 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="annotation" target="1.8" />
-      <module name="boot-rpc-zk-test" target="1.8" />
-      <module name="controller-spring" target="1.8" />
+      <module name="fastjson-test" target="1.8" />
       <module name="hadooprpc" target="1.8" />
-      <module name="idea-eval-resetter" target="8" />
-      <module name="kafka-test" target="8" />
       <module name="maintest" target="1.8" />
-      <module name="mongodb-test-space-1x" target="1.8" />
       <module name="protocol-test" target="1.5" />
-      <module name="redis-test" target="1.8" />
-      <module name="spring-session-boot1x" target="1.8" />
-      <module name="spring-session-boot2x" target="1.8" />
-      <module name="spring-session-core" target="1.5" />
-      <module name="spring-session-test" target="1.8" />
-      <module name="springboot-aop-test" target="1.8" />
-      <module name="springboot-mqtt" target="1.8" />
-      <module name="springboot2x-demo-test" target="1.8" />
-      <module name="swagger-test" target="1.8" />
-      <module name="test-core" target="1.8" />
       <module name="test-space" target="1.8" />
-      <module name="thread-springboot2x-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="annotation" options="-parameters" />
-      <module name="kafka-test" options="-parameters" />
+      <module name="kafka-test" options="" />
       <module name="redis-test" options="-parameters" />
-      <module name="spring-session-boot2x" options="-parameters" />
+      <module name="spring-boot-2-4-demo" options="-parameters" />
+      <module name="spring-session-boot2x" options="" />
       <module name="springboot-mqtt" options="-parameters" />
       <module name="springboot2x-demo-test" options="-parameters" />
       <module name="thread-springboot2x-test" options="-parameters" />

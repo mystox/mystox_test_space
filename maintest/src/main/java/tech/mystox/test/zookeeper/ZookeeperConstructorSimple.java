@@ -20,7 +20,7 @@ public class ZookeeperConstructorSimple
             // 创建一个与服务器的连接
             //        ZooKeeper zk = new ZooKeeper("172.16.5.26:2181", 30000, new Watcher() {
 // 监控所有被触发的事件
-            ZooKeeper zk = new ZooKeeper("172.16.5.26:2181,172.16.5.26:2182,172.16.5.26:2183", 30000,
+            ZooKeeper zk = new ZooKeeper("192.168.50.101:2181", 30000,
                     event -> System.out.println("已经触发了" + event.getType() + "事件！" + event.getPath() + "|" + event.toString()));
 //            System.out.println(zk.getState());
             // 创建一个目录节点 ==>已经触发了 None 事件！

@@ -66,7 +66,8 @@ public class KafkaTestApplicationTest {
     @Test
     public void testProducer() {
         Properties kafkaProperties = new Properties();
-       kafkaProperties.put("bootstrap.servers", "192.168.0.234:9093,192.168.0.234:9094,192.168.0.234:9095");
+       kafkaProperties.put("bootstrap.servers", "172.21.150.185:19093");
+       kafkaProperties.put("bootstrap.servers", "192.168.50.101:9093");
 //        kafkaProperties.put("bootstrap.servers", "121.43.98.132:9093,121.43.98.132:9094,121.43.98.132:9095");
 //        kafkaProperties.put("bootstrap.servers", "192.168.0.235:9092");
         kafkaProperties.put("key.serializer", "org.apache.kafka.common.serialization.StringSerializer");
@@ -103,7 +104,7 @@ public class KafkaTestApplicationTest {
                 "    \"networkName\": \"AOTEST\",\n" +
                 "    \"indexValue\": \"阈值规则状态从“数据不足”变为“超限阈值”。状态变化详细信息：指标名称为“instanceAvailableRate”，最新指标数据取值为“0,0,0”，符合超限阈值条件“<=0”，上报告警。##Threshold rule status changed from \\\"insufficientdata\\\" to \\\"alarm\\\".Details: The latest value of metric \\\"instanceAvailableRate\\\" is \\\"0,0,0\\\" and has met threshold rule \\\"<=0\\\",report alarm.\"\n" +
                 "  }";
-        String topic = "init.demo.batch.13";
+        String topic = "testKafka";
         ProducerRecord record = new ProducerRecord(topic, s);
         System.out.println("kafka msg send [{}] msg [{}]"+topic+s);//(, msg);
         producer.send(record);
